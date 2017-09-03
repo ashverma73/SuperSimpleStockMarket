@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSimpleStockMarket", "SuperSimpleStockMarket\SuperSimpleStockMarket.csproj", "{BDD39643-634E-4E45-B15C-EABDD1F0B2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSimpleStockMarketTests", "SuperSimpleStockMarketTests\SuperSimpleStockMarketTests.csproj", "{4F7462BF-87FF-43FC-95F4-C4BB56644B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSimpleStockMarket.DataModel", "SuperSimpleStockMarket.DataModel\SuperSimpleStockMarket.DataModel.csproj", "{8AF5ABF6-8A02-44F2-94E0-AEEB39B70059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSimpleStockMarket.DataService", "SuperSimpleStockMarket.DataClient\SuperSimpleStockMarket.DataService.csproj", "{E519FD2A-44A7-4901-8E19-7AE18BBC5586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSimpleStockMarket.MockedData", "SuperSimpleStockMarket.MockedData\SuperSimpleStockMarket.MockedData.csproj", "{3B0E9C47-2049-493F-982B-19281E85677B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD39643-634E-4E45-B15C-EABDD1F0B2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD39643-634E-4E45-B15C-EABDD1F0B2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD39643-634E-4E45-B15C-EABDD1F0B2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD39643-634E-4E45-B15C-EABDD1F0B2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7462BF-87FF-43FC-95F4-C4BB56644B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7462BF-87FF-43FC-95F4-C4BB56644B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7462BF-87FF-43FC-95F4-C4BB56644B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7462BF-87FF-43FC-95F4-C4BB56644B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF5ABF6-8A02-44F2-94E0-AEEB39B70059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF5ABF6-8A02-44F2-94E0-AEEB39B70059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF5ABF6-8A02-44F2-94E0-AEEB39B70059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF5ABF6-8A02-44F2-94E0-AEEB39B70059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E519FD2A-44A7-4901-8E19-7AE18BBC5586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E519FD2A-44A7-4901-8E19-7AE18BBC5586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E519FD2A-44A7-4901-8E19-7AE18BBC5586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E519FD2A-44A7-4901-8E19-7AE18BBC5586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0E9C47-2049-493F-982B-19281E85677B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0E9C47-2049-493F-982B-19281E85677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0E9C47-2049-493F-982B-19281E85677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0E9C47-2049-493F-982B-19281E85677B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+[
+  {
+    "Ticker": "TEA",
+    "Type": "Common",
+    "LastDividend": 0,
+    "ParValue": 100
+  },
+  {
+    "Ticker": "POP",
+    "Type": "Common",
+    "LastDividend": 8,
+    "ParValue": 100
+  },
+  {
+    "Ticker": "ALE",
+    "Type": "Common",
+    "LastDividend": 23,
+    "ParValue": 60
+  },
+  {
+    "Ticker": "GIN",
+    "Type": "Preferred",
+    "LastDividend": 8,
+    "FixedDividend": ".02",
+    "ParValue": 100
+  },
+  {
+    "Ticker": "JOE",
+    "Type": "Common",
+    "LastDividend": 13,
+    "ParValue": 250
+  }
+]
